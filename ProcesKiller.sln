@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcesKiller", "ProcesKiller\ProcesKiller.csproj", "{BCDBA09D-B198-4F70-A974-96ABE36918A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KillProcessWindow", "KillProcessWindow\KillProcessWindow.csproj", "{0435BCDC-EA22-4C0F-A91E-E0D2EABD2BD6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MainLayer", "MainLayer\MainLayer.csproj", "{F12633CE-EE76-4025-ADB9-97E6061FC6B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCDBA09D-B198-4F70-A974-96ABE36918A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCDBA09D-B198-4F70-A974-96ABE36918A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCDBA09D-B198-4F70-A974-96ABE36918A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCDBA09D-B198-4F70-A974-96ABE36918A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0435BCDC-EA22-4C0F-A91E-E0D2EABD2BD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0435BCDC-EA22-4C0F-A91E-E0D2EABD2BD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0435BCDC-EA22-4C0F-A91E-E0D2EABD2BD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0435BCDC-EA22-4C0F-A91E-E0D2EABD2BD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F12633CE-EE76-4025-ADB9-97E6061FC6B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F12633CE-EE76-4025-ADB9-97E6061FC6B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F12633CE-EE76-4025-ADB9-97E6061FC6B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F12633CE-EE76-4025-ADB9-97E6061FC6B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
